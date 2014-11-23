@@ -1,0 +1,210 @@
+@font-face {
+  font-family: "existencelight";
+   src: url("fonts/Existence-Light-webfont.eot");
+   src: url("fonts/Existence-Light-webfont.eot?#iefix") format("embedded-opentype"),
+   url("fonts/Existence-Light-webfont.woff") format("woff"),
+   url("fonts/Existence-Light-webfont.ttf") format("truetype"),
+   url("fonts/Existence-Light-webfont.svg#existencelight") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+.main h1 {
+	font-family: "existencelight";
+	font-size: 72px;
+	color: #f8f8f8;
+	position: absolute;
+	bottom: 200px;
+	left: 0;
+	right: 0;
+	list-style-type: none;
+	margin: 0 auto;
+	overflow: hidden;
+	white-space: normal;
+}
+div .logo {
+	text-align: center;
+	margin: 0 auto;
+}
+.logo a {
+	color: #ffffff;
+}
+.logo a:hover {
+	text-decoration: none;
+	color: #ffffff;
+}
+.wrapper {
+	background-color: #000000;
+	min-height: 3400px;
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	overflow: hidden;
+	white-space: normal;
+}
+.container {
+	max-width: 1000px;
+}
+body {
+	padding-left: 0;
+	font-family: "existencelight";
+}
+.menu {
+	font-family: "existencelight";
+	color: #ffffff;
+}
+ .menu-links {
+ 	padding-top: 15px;
+ }
+ .links-width{
+ 		min-width: 100px;
+ }
+.rightimg {
+	float: right;  
+  margin: 7px 0 7px 7px;
+}
+.content {
+	color: #ffffff;
+	font-family: "existencelight";
+	font-size: 13px;
+}
+.save-earth {
+	margin-top: 75px;
+	margin-bottom: 96px;
+}
+.save-earth h2 {
+	font-size: 18px;
+	background-color: #1d1e21; 
+	width: 475px;
+	height: 32px;
+	font-family: "existencelight";
+	padding-left: 55px;
+	padding-top: 6px;
+}
+.save-earth h2:before {
+  vertical-align: middle;
+  content: "";
+  float: left;
+  position:absolute;
+  left: 35px;
+  top:25px;
+  display: inline-block;
+  width: 22px;
+  height: 20px;
+  background-image: url(../img/icon/people.png);
+}
+.leftimg {
+	float: left;
+  margin: 7px 7px 7px 0; 
+}
+.ten-things {
+	margin-bottom: 96px;
+}
+.ten-things h2 {
+	font-size: 18px;
+	background-color: #1d1e21;
+	margin-left: 150px;
+	font-family: "existencelight";
+	width: 470px;
+	height: 32px;
+	padding-left: 45px;
+	padding-top: 6px;
+}
+.ten-things h2:before {
+  vertical-align: middle;
+  content: "";
+  float: left;
+  position: absolute;
+  left: 175px;
+  top: 25px;
+  display: inline-block;
+  width: 22px;
+  height: 18px;
+  background-image: url(../img/icon/dog.png);
+}
+.news {
+	margin-bottom: 96px;
+}
+.news h2 {
+	font-family: "existencelight";
+	font-size: 18px;
+	background-color: #1d1e21; 
+	width: 475px;
+	height: 32px;
+	text-align: center;
+	margin-left: 90px; 
+	padding-top: 6px;
+}
+.news h2:before {
+  vertical-align: middle;
+  content: "";
+  float: left;
+  position: absolute;
+  left: 230px;
+  top: 25px;
+  display: inline-block;
+  width: 18px;
+  height: 22px;
+  background-image: url(../img/icon/hend-l.png);
+}
+.news h2:after {
+  content: "";
+  position: absolute;
+  float: right;
+  left: 430px;
+  top: 25px;
+  display: inline-block;
+  width: 18px; 
+  height: 22px;
+  background-image: url(../img/icon/hend-r.png);
+}
+.circle {
+  width: 80px;
+  height: 90px;
+  background: #1d1d1d;
+  -moz-border-radius: 44px;
+  -webkit-border-radius: 44px;
+  border-radius: 44px;
+  margin-right: 22px;
+  padding-top: 15px;
+  font-size: 43px;
+  color: #141414;
+  font-family: "existencelight";
+  box-shadow: inset 3px 4px 5px #111111;
+}
+.names {
+	font-family: "existencelight";
+	font-size: 20px;
+	color: #2f2f2f;
+	margin-right: 22px;
+	margin-top: 12px;
+}
+.contact {
+	font-family: "existencelight";
+	color: #ffffff;
+	font-size: 30px;
+	margin-top: 96px;
+}
+ul {
+	color: #4e4e4e;
+	font-size: 57px;
+	list-style-type: none;
+	padding-top: 65px;
+}
+.footer {
+	margin-top: 115px;
+	background-color: #212225;
+	height: 34px;
+	border-radius: 10px 10px 0 0;
+	padding-top: 5px;
+	padding-left: 32px;
+}
+.corporation {
+	font-size: 15px;
+	color: #03050a;
+	font-family: "existencelight";
+}
+.footer-btn {
+	background-color: #1b1b1e;
+	width: 40px !important;
+	margin-left: 10px;
+	color: #ffffff;
+}
